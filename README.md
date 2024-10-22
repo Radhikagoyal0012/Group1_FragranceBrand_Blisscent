@@ -4,7 +4,7 @@ Blisscent fills a key market gap by offering **luxurious fragranced products** �
 Many individuals struggle to find scents that perfectly align with their **unique personality** 💫, so we’ve developed our personalized **"Scent Finder Quiz"** 🧑‍💻🔍 to guide customers towards their **ideal fragrance**. To further enhance the shopping experience, we offer **mini samples** of the recommended scents ✨🎁, allowing customers to **try before committing** to a full-size product.
 
 Blisscent is a brand that blends **safety, personalization**, and **luxury** 🌿🕯️, transforming everyday moments into a fragrant celebration 🌟.
-#🛠️ **Tech Stack**
+🛠️ **Tech Stack**
 Frontend:
 🖼️ HTML5
 🎨 CSS3 (with Bootstrap for a polished look)
@@ -12,26 +12,30 @@ Frontend:
 Platforms:
 🗂️ GitHub for project hosting and version control.
 
-#👥 **Meet the Team**
+👥 **Meet the Team**
 
 Radhika Goyal
 
 🆔 Roll Number: 2310992602
+
 📧 Email: radhika1003.be23@chitkara.edu.in
 
 Anshu Saini
 
 🆔 Roll Number: 2310991780
+
 📧 Email: anshu1780.be23@chitkara.edu.in
 
 Mokshita Kapoor
 
 🆔 Roll Number: 2310992598
+
 📧 Email: mokshita1002.be23@chitkara.edu.in
 
 Apurva Juneja
 
 🆔 Roll Number: 2310991785
+
 📧 Email: apurva1785.be23@chitkara.edu.in
 
 
