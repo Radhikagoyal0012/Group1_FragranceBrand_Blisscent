@@ -47,4 +47,4 @@ Blisscent is a brand that blends **safety, personalization**, and **luxury** �
 📧 Email: apurva1785.be23@chitkara.edu.in
 
 
-**BLISSCENT – charmify your surrounding** ✨🌸
+## **BLISSCENT – charmify your surrounding** ✨🌸
